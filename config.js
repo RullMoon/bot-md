@@ -18,8 +18,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283853152230']
-global.premium = ['6283853152230']
+global.owner = ['6285746030186']
+global.premium = ['6285746030186']
 global.packname = 'MoonBot'
 global.author = 'MoonBot'
 global.sessionName = 'Moon'
@@ -42,7 +42,7 @@ global.limitawal = {
     premium: "Infinity",
     free: 50
 }
-global.thumb = { url : 'https://telegra.ph/file/52b4c3c1c631254af23b8.jpg'}
+global.thumb = { url : 'https://telegra.ph/file/349b1118fcdfdf7057df6.jpg'}
 global.visoka = { url: 'https://a.uguu.se/RuiGTslJ.mp4' }
 global.resta = { url : 'https://a.uguu.se/kUFEHNf.mp4' }
 
