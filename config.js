@@ -20,9 +20,9 @@ global.APIKeys = {
 // Other
 global.owner = ['6283853152230']
 global.premium = ['6283853152230']
-global.packname = '🤖𝚁𝚠•𝙱𝚘𝚝~🤖'
-global.author = 'WhatsApp Bot'
-global.sessionName = 'rwdm'
+global.packname = 'MoonBot'
+global.author = 'MoonBot'
+global.sessionName = 'Moon'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
@@ -40,7 +40,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 50
 }
 global.thumb = { url : 'https://telegra.ph/file/52b4c3c1c631254af23b8.jpg'}
 global.visoka = { url: 'https://a.uguu.se/RuiGTslJ.mp4' }
